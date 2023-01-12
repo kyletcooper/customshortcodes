@@ -1,7 +1,7 @@
 <?php // phpcs:ignore -- This file name is determined by WordPress
 
 /**
- * Plugin Name:       Simple Shortcodes
+ * Plugin Name:       Super Simple Shortcodes
  * Description:       Create your own custom shortcodes to keep contact information consistent across your site.
  * Version:           1.0.0
  * Requires at least: 5.2

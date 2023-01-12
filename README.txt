@@ -1,4 +1,4 @@
-=== Simple Shortcodes - Create your own Custom Shortcodes for Contact Info & More ===
+=== Super Simple Shortcodes - Create your own Custom Shortcodes for Contact Info & More ===
 Contributors: wrdstudio
 Tags: shortcodes, shortcode, content, contact, information, wysiwyg, tinymce, code, custom
 Requires at least: 5.7
