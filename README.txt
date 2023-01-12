@@ -1,4 +1,4 @@
-=== Custom Shortcodes - Create your own Shortcodes for Contact Info & More ===
+=== Simple Shortcodes - Create your own Custom Shortcodes for Contact Info & More ===
 Contributors: wrdstudio
 Tags: shortcodes, shortcode, content, contact, information, wysiwyg, tinymce, code, custom
 Requires at least: 5.7
@@ -20,10 +20,10 @@ Keep your important contact information centralised into one place with custom s
 If there are blocks of content you want to use multiple times across your website, you might find it difficult to update it in the future. With custom shortcodes, you can keep that content centralised to a single location and update it across your entire site from one place.
 
 = Lightweight & WordPress Friendly =
-Custom Shortcodes is built to be a lightweight addition to your site, so it won't bog down your install. In fact, no additional scripts or assets are added to the front-end of your site. Custom Shortcodes integrates with WordPress seamlessly and doesn't try to fight it.
+Custom Shortcodes is built to be a lightweight addition to your site, so it won't bog down your install. In fact, no additional scripts or assets are added to the front-end of your site. The plugin integrates with WordPress seamlessly and doesn't try to fight it.
 
 == FAQs ==
-**Where are Custom Shortcodes?**
+**Where do I find my Custom Shortcodes?**
 To view your custom shortcodes and create new ones, go to Tools > Custom Shortcodes.
 
 == Screenshots ==
