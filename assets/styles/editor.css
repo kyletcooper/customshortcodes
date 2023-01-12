@@ -1,0 +1,67 @@
+.shortcodePicker {
+	padding: 0;
+	width: 350px;
+	max-width: calc(100vw - 48px);
+
+	border: none;
+	border-radius: 2px;
+	border: 1px solid #c3c4c7;
+	background: #fff;
+	box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+}
+
+.shortcodePicker::backdrop {
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.shortcodePicker__header {
+	padding: 8px 12px;
+	border-bottom: 1px solid #c3c4c7;
+}
+
+.shortcodePicker__title {
+	color: #1d2327;
+	font-size: 14px;
+	margin: 0;
+	line-height: 1.4;
+}
+
+.shortcodePicker__body {
+	max-height: 60vh;
+	overflow-y: auto;
+}
+
+.shortcodePicker__choices {
+	display: flex;
+	flex-direction: column;
+	gap: 1px;
+}
+
+.shortcodePicker__new {
+	display: block;
+	width: fit-content;
+	margin: 10px;
+}
+
+.shortcodePicker__footer {
+	padding: 10px;
+	display: flex;
+	gap: 12px;
+	background: #f6f7f7;
+	border-top: 1px solid #c3c4c7;
+}
+
+.shortcodePicker__item {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.shortcodePicker__item:has(.shortcodePicker__item__input:checked) {
+	background: #f0f6fc;
+}
+
+.shortcodePicker__item__input {
+	margin: 0px !important;
+}
